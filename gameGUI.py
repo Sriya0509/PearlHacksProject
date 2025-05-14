@@ -13,7 +13,7 @@ label.pack() # show the label
 window.title("Petals and Perils") #set the title of the window
 window.geometry("700x700") #set the size of the window
 
-
+##testing
 
 #load button for playing game
 play_button_path = "images/IMG_0137.jpeg"  
